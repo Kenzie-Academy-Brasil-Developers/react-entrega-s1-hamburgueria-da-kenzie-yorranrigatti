@@ -1,0 +1,30 @@
+
+.search--div {
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px;
+  background: #ffffff;
+  border: 2px solid #e0e0e0;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+.search--div input {
+  width: 150px;
+  font-size: 16px;
+  line-height: 19px;
+  color: #828282;
+  border: none;
+}
+.search--button {
+  padding: 8px;
+  background: #27ae60;
+  border: 2px solid #27ae60;
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 17px;
+  color: #ffffff;
+}
